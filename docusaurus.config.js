@@ -13,10 +13,10 @@ const config = {
   favicon: 'img/docux.png',
 
   // Set the production url of your site here
-  url: 'https://your-docusaurus-site.example.com',
+  url: 'https://github.com/Juniors017/Docusaurus-TimeLine',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/Docusaurus-timeline/',
+  baseUrl: '/Docusaurus-Timeline/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
@@ -74,7 +74,7 @@ const config = {
           },
           
           {
-            to: 'https://github.com/Juniors017?tab=repositories',
+            to: 'https://github.com/Juniors017/Docusaurus-TimeLine',
             label: 'GitHub',
             position: 'left',
           },
