@@ -57,9 +57,9 @@ export default function Home() {
     </div>
     
     <div className="col  text--center  ">
-      <div className=" padding-vert--xl"><h1 className="hero__title ">Description of xxx components</h1>
-            <p className="hero__subtitle">hero__subtitle</p>
-            <p className="">test  xx </p></div>
+      <div className=" padding-vert--xl"><h1 className="hero__title "></h1>
+            <p className="hero__subtitle"></p>
+            <p className=""></p></div>
             
     </div>
     <div className="col ">
