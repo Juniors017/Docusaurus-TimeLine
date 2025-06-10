@@ -22,11 +22,11 @@ function HomepageHeader() {
       <div className=""></div>
     </div>
     <div className="col col--3 text--center padding-horiz--xs">
-      <div className="" > <img src="./img/timeline.png" style={{borderRadius:'50%'}} className="item shadow--tl"></img></div>
+      <div className="" > <img src="./img/docux.png" style={{borderRadius:'50%'}} className="item shadow--tl"></img></div>
    
     </div> 
     <div className="col col--6 text--center  ">
-      <div className=" padding-vert--md"><h1 className="hero__title ">Time line Component by @Docux</h1>
+      <div className=" padding-vert--md"><h1 className="hero__title ">Time Line by @Docux</h1>
             <p className="hero__subtitle">Cet espace est dédié à mon exploration de docusaurus </p>
             <p className="">Ici vous retrouvez toutes les infos sur developpement et recherche ainsi que mes notes </p></div>
             
