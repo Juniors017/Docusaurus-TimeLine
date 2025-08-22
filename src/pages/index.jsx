@@ -27,8 +27,8 @@ function HomepageHeader() {
     </div> 
     <div className="col col--6 text--center  ">
       <div className=" padding-vert--md"><h1 className="hero__title ">Time Line by @Docux</h1>
-            <p className="hero__subtitle">Cet espace est dédié à mon exploration de docusaurus </p>
-            <p className="">Ici vous retrouvez toutes les infos sur developpement et recherche ainsi que mes notes </p></div>
+            <p className="hero__subtitle">This space is dedicated to my exploration of Docusaurus</p>
+            <p className="">Here you will find all the information about development and research as well as my notes</p></div>
             
     </div>
     <div className="col col--1">
@@ -56,11 +56,8 @@ export default function Home() {
     <div className="col  text--justify ">
     
             <p className="hero__subtitle">
-            Docusaurus utilizes the Infima framework for styling layout. The components described here are fully based on the Infima grid system.
-
-With this component, you will be able to easily create columns on demand according to the Infima grid. This provides great flexibility for structuring your content and creating attractive, responsive layouts. Whether you need a simple single-column layout or a complex layout with multiple columns, this component will allow you to achieve it quickly and efficiently. Harness the power of the Infima grid system to make your documentation clear, concise, and aesthetically pleasing.
-
-</p><p>@Docux</p>
+            With this component you will be able to easily create vertical timelines to style your project pages or professional experience. A nice and atypical way to present your background and activities.
+            </p><p>@Docux</p>
             </div>
             
    
